@@ -1,0 +1,10 @@
+*
+!*/
+
+!.gitignore
+!.env.template
+!VERSION
+!CHANGELOG.md
+!README.md
+
+!*.sh
